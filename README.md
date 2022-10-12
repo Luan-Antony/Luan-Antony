@@ -14,7 +14,8 @@
  
  <br>
  
-  ### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
+  ### Meu contato via discord é Hitomaru#2931
+ e meu Gmail: fplpgluan@gmail.com
  
 <div>
  
