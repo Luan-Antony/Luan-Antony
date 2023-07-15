@@ -14,7 +14,7 @@
  
  <br>
  
-  ### Meu contato via discord é Hitomaru#2931
+  ### Meu contato via discord é hito.san
  e meu Gmail: fplpgluan@gmail.com
  
 <div>
