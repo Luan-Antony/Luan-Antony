@@ -17,4 +17,4 @@
   ### Meu contato via discord é hito.maru
  e meu Gmail: fplpgluan@gmail.com
  
-![snake gif](https://github.com/Luan-Antony/Luan-Antony/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Luan-Antony/Luan-Antony/blob/output/github-contribution-grid-snake-dark.svg)
