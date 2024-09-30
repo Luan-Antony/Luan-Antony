@@ -13,12 +13,15 @@
   <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 </div>
- 
 <br>
-  Busco vaga na area de Front-End Junior 
-  ### Contato por Email: fplpgluan@gmail.com
-  ou Wpp: (13) 991647312
-
+<div>
+   <strong>Busco vaga na area de Front-End Junior</strong>
+<br><br>
+  <strong>Contato por Email: fplpgluan@gmail.com</strong>
+  ou Wpp: (13) 981325063
+<br>
+<br>
  Português/Inglês
+</div>
  
 ![snake gif](https://github.com/Luan-Antony/Luan-Antony/blob/output/github-contribution-grid-snake-dark.svg)
