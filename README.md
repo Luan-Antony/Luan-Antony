@@ -18,7 +18,6 @@
    <strong>Busco vaga na area de Front-End Junior</strong>
 <br><br>
   <strong>Contato por Email: fplpgluan@gmail.com</strong>
-  ou Wpp: (13) 981325063
 <br>
 <br>
  Português/Inglês
