@@ -1,4 +1,4 @@
-## Olá, me chamo Luan Antony e sou programador Front-End.
+## Luan Antony, programador Front-End Júnior.
 
 <div>
    <a href="https://github.com/Luan-Antony">
