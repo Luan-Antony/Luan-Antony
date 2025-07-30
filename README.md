@@ -1,4 +1,4 @@
-## Luan Antony, programador Front-End Júnior.
+## Luan Antony, programador Full-Stack.
 
 <div>
    <a href="https://github.com/Luan-Antony">
@@ -15,8 +15,6 @@
 </div>
 <br>
 <div>
-   <strong>Busco vaga na area de Front-End Junior</strong>
-<br><br>
   <strong>Contato por Email: fplpgluan@gmail.com</strong>
 <br>
 <br>
