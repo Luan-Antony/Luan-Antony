@@ -30,16 +30,16 @@
 
 ## 🚀 Sobre mim
 
-💻 Desenvolvedor Full-Stack em evolução
-📚 Estudando e construindo em React, Express e Docker
-🌎 Português / Inglês
-🎯 Em busca de oportunidade na área tech
+💻 Desenvolvedor Full-Stack em evolução <br>
+📚 Estudando e construindo em React, Express e Docker <br>
+🌎 Português / Inglês <br>
+🎯 Em busca de oportunidade na área tech <br>
 
 ---
 
 ## 🛠️ Minhas Stacks
 
-<p align="center">
+<p align="center display: flex">
   <img alt="HTML" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img alt="CSS" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img alt="JavaScript" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
